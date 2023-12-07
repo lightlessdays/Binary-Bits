@@ -7,6 +7,8 @@ cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1701954170921/c1ee907
 
 ---
 
+### Neighbors
+
 In image processing, a pixel represents a point in an image and has neighboring pixels surrounding it. For a pixel at coordinates (x, y), there are adjacent pixels arranged in different ways:
 
 1. **4-Neighbors (Np4):** These are the immediate horizontal and vertical neighboring pixels. For a pixel at (x, y), the four neighboring pixels are at coordinates (x+1, y), (x-1, y), (x, y+1), and (x, y-1).
@@ -24,11 +26,11 @@ In a binary image (where pixels have values of 0 or 1), adjacency considers pixe
 
 There are three types of adjacency:
 
-1. **4-adjacency:** Two pixels, p, and q, with values from V, are 4-adjacent if q is one of the immediate horizontal or vertical neighbors of p (as defined in the 4-neighbors concept described earlier).  
+1. **4-adjacency:** Two pixels, p, and q, with values from V, are 4-adjacent if q is one of the immediate horizontal or vertical neighbors of p (as defined in the 4-neighbors concept described earlier).
     
     ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1701953616875/c6ffbed4-c187-4b11-ba0b-b016a4bf0c2c.png align="center")
     
-2. **8-adjacency:** Here, two pixels, p and q, with values from V are 8-adjacent if q is one of the horizontal, vertical, or diagonal neighbors of p (as defined in the 8-neighbors concept described earlier).  
+2. **8-adjacency:** Here, two pixels, p and q, with values from V are 8-adjacent if q is one of the horizontal, vertical, or diagonal neighbors of p (as defined in the 8-neighbors concept described earlier).
     
     ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1701953569494/c7e2aed4-b534-449d-88fd-c0065979ecc1.png align="center")
     
