@@ -3,6 +3,7 @@ title: "Digital Image Processing - Viva Questions"
 datePublished: Wed Dec 13 2023 06:49:24 GMT+0000 (Coordinated Universal Time)
 cuid: clq3eve0w000708jpckzg5z3c
 slug: digital-image-processing-viva-questions
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1702474141873/a97f27d0-3258-4625-97da-0e35ae347546.png
 
 ---
 
